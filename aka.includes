@@ -1,0 +1,5 @@
+aka/samples/simple_component/include
+include/aka/iface
+include/aka/rtl
+aka/samples/simple_component/src
+hello_world

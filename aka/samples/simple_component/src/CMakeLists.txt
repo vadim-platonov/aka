@@ -1,0 +1,1 @@
+add_library(simple_component MODULE objects_factory.cpp simple_object.cpp)
